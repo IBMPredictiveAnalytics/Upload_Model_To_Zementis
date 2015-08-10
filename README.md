@@ -1,8 +1,8 @@
-# Score with Zementis
-Adapa scoring engine integrated with IBM SPSS
+# Upload Model to Zementis
+Upload a SPSS Modeler PMML to Zementis Adapa Cloud Environment
 
-![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Score-with-Zementis/master/Screenshot/Illustration1.png)
-![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Score-with-Zementis/master/Screenshot/Illustration2.png)
+![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/master/Screenshot/Illustration3.png)
+![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/master/Screenshot/Illustration4.png)
 
 
 
