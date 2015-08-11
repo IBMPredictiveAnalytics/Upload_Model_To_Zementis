@@ -55,7 +55,7 @@ Contributors
 [2]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
 [3]:https://github.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/raw/master/Source%20code/ZementisUpload2.cfe
 [4]:https://cran.r-project.org/web/packages/httr/index.html
-[5]:https://github.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/raw/master/Documentation/Zementis-SPSSModelerExtension.pdf
+[5]:https://github.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/blob/master/Documentation/Zementis-SPSSModelerExtension.pdf
 [6]:https://github.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/tree/master/Example
 [10]:https://developer.ibm.com/predictiveanalytics/2015/03/11/tweets-during-esri-dev-summit-and-bnp-paribas-open/
 [11]:https://cran.r-project.org/web/packages/plyr/
