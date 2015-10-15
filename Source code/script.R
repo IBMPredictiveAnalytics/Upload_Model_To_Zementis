@@ -9,6 +9,6 @@ print(data)
 }else {
   print('Removing')
 url = "https://myadapa.zementis.com:443/adapars/model/%%model%%"
-data<-DELETE(url, authenticate("armand.ruiz@us.ibm.com", "n097UZ@p"))
+data<-DELETE(url, authenticate("USERNAME", "PASSWORD"))
 }
 
